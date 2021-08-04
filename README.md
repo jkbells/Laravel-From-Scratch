@@ -3,11 +3,11 @@ Laravel is primarily used for building custom web apps using PHP. It's a web fra
 
 Laravel is the most popular open source PHP framework and uses the MVC (Model View Controller) design pattern. We will be covering all of the fundamentals of Laravel 5.4 in this series including....
 
-Routing
-Controllers
-Models & DB Migrations
-Blade Templates/Views
-Authentication & Access Control
-CRUD Functionality
-File Uploading
+1) Routing
+2) Controllers
+3) Models & DB Migrations
+4) Blade Templates/Views
+5) Authentication & Access Control
+6) CRUD Functionality
+7) File Uploading
 Much More...
