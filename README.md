@@ -11,3 +11,8 @@ Laravel is the most popular open source PHP framework and uses the MVC (Model Vi
 6) CRUD Functionality
 7) File Uploading
 Much More...
+
+Version
+1.0.0
+Database
+The sql dump is in _SQL/lsapp.sql
